@@ -1,0 +1,25 @@
+.App {
+  background: linear-gradient(45deg, #eecfba, #c5dde8);
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+}
+.crossed {
+  text-decoration: line-through;
+}
+.uncrossed {
+  text-decoration: none;
+}
+.todo_topic {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 200px;
+}
+.todos_list {
+  list-style-position: inside;
+}
